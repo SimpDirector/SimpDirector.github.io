@@ -1,0 +1,11 @@
+.jumbotron{
+    border: 3px solid black;
+         padding: 10px; }
+         .border{
+            border: 3px solid black;
+         }
+         
+         body{
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-style:normal;
+         }
